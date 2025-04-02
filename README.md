@@ -14,4 +14,5 @@ Questions(KPIs):
 7. Which Channel is contributing maximum to the sales?
 8. Highest selling category?, etc.
 
+Dashboard Interaction 
 
