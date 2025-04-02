@@ -1,4 +1,5 @@
-# Vrinda-Store_Data-Analytics_Excel_Project
+3
+.# Vrinda-Store_Data-Analytics_Excel_Project
 This is a Data Analytics project using Excel
 
 ## Project Objective:
@@ -28,3 +29,12 @@ Vrinda store wants to create an annual sales repost for 2022. So that, Vrinda ca
 ## Dashboard
 
 ![Screenshot 2025-04-02 122616](https://github.com/user-attachments/assets/de0ff67d-2b83-4af7-901b-c91a283f1626)
+
+## Insights
+- Women are more like to buy compared to men (~65%)
+- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+- Adult age group(30-49 years) is max contributing (~50%)
+- Amazon, Flipkart and Myntra channels are max contributing (~80%)
+
+  ## Final conclusion to improve Vrinda Store sales
+  Target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
