@@ -18,3 +18,10 @@ Vrinda store wants to create an annual sales repost for 2022. So that, Vrinda ca
 8. Highest selling category?, etc.
 
 - Dashboard Interaction <a href="https://github.com/Parna02/Vrinda-Store_Data-Analytics_Excel_Project/blob/main/Screenshot%202025-04-02%20122616.png">View Dashboard</a>
+
+## Process
+- Verify data for ant missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  
