@@ -25,3 +25,6 @@ Vrinda store wants to create an annual sales repost for 2022. So that, Vrinda ca
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
+## Dashboard
+
+![Screenshot 2025-04-02 122616](https://github.com/user-attachments/assets/de0ff67d-2b83-4af7-901b-c91a283f1626)
